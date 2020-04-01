@@ -1,0 +1,2 @@
+- English version: [[./whitepaper/w0-en_US.org]].
+- Portuguese version: [[./whitepaper/w0-pt_BR.org]].

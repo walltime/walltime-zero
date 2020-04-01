@@ -1,0 +1,40 @@
+.icon-block {
+    padding: 0 15px;
+}
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+.wt-black {
+    background-color: #2a3236 !important;
+}
+
+.wt-black-text {
+    color: #2a3236 !important;
+}
+
+.wt-blue {
+    background-color: #0082c7 !important;
+}
+
+.wt-blue-text {
+    color: #0082c7 !important;
+}
+
+.wt-green {
+    background-color: #77c14f !important;
+}
+
+.wt-green-text {
+    color: #77c14f !important;
+}
+
+#logo-container img {
+    height: 64px;
+}
+
+@media only screen and (max-device-width: 720px) {
+    #logo-container img {
+        height: 56px;
+    }
+}

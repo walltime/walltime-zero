@@ -1,2 +1,2 @@
-- English version: [[./whitepaper/w0-en_US.org]].
+- English version: [[./whitepaper/w0-en_US.org]] (translated by [[https://www.facebook.com/profile.php?id=100030767708669][Beatriz Nunes]]).
 - Portuguese version: [[./whitepaper/w0-pt_BR.org]].
